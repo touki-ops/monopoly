@@ -54,3 +54,9 @@ input, button, p {
 #tourner:hover {
 	background-color: #bdbdbd;
 }
+
+@media screen and (max-width: 880px) {
+	#img_de {
+		margin: 10px 0px 0px 10px;
+	}
+}
